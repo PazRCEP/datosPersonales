@@ -1,0 +1,4 @@
+Nombre: o
+Edad: 4
+Correo electrónico: ert
+Dirección: rrt
