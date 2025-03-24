@@ -8,6 +8,7 @@ public class Main {
 
         System.out.println("hola");
         System.out.println("hola");
+        System.out.println("hola");
         
         try {
             // Solicitar datos personales al usuario
